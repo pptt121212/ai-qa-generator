@@ -56,7 +56,7 @@ AI QA Generator 是一个功能强大的 WordPress 插件，旨在通过人工�
 
 本插件目前支持 SiliconFlow.cn 提供的 AI API 服务。
 
-1.  注册并登录 [SiliconFlow.cn](https://www.siliconflow.cn/)。
+1.  注册并登录 [SiliconFlow.cn](https://cloud.siliconflow.cn/i/fcqQ8oKi)。
 2.  在用户中心获取您的 API 密钥。
 3.  在插件设置页面的 `AI API密钥` 字段中填入您的密钥。
 4.  您可以保留默认的 `deepseek-ai/DeepSeek-V3` 模型，或根据需要选择其他支持的模型。
